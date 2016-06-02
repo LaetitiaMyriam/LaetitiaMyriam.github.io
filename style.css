@@ -98,7 +98,9 @@ section {
 
 .column-70 {
   width: 50%;
-  float: left;
+ /* float: left;*/
+  margin-right: auto;
+  margin-left: auto;
   /*height: 400px;*/
   background-color: #ddd;
 }
@@ -159,3 +161,4 @@ section {
     width: 100%;
   }
 }
+Status API Training Shop Blog About
